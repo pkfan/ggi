@@ -1,0 +1,20 @@
+[06-Sep-2023 09:00:51 UTC] PHP Warning:  POST Content-Length of 16127829 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Sep-2023 07:36:24 UTC] PHP Warning:  POST Content-Length of 12766223 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Sep-2023 03:54:04 UTC] PHP Warning:  POST Content-Length of 9559121 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Sep-2023 03:54:13 UTC] PHP Warning:  POST Content-Length of 9559121 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Sep-2023 14:44:44 Asia/Riyadh] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 431
+[12-Sep-2023 14:45:17 Asia/Riyadh] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 307
+[12-Sep-2023 14:45:17 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1015808 bytes) in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/spatie/laravel-ignition/src/Renderers/IgnitionExceptionRenderer.php on line 22
+[12-Sep-2023 14:45:30 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1474560 bytes) in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/spatie/ignition/resources/views/errorPage.php on line 47
+[12-Sep-2023 14:45:30 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 880640 bytes) in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/spatie/ignition/src/ErrorPage/ErrorPageViewModel.php on line 104
+[12-Sep-2023 14:45:41 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1478656 bytes) in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/spatie/ignition/resources/views/errorPage.php on line 47
+[12-Sep-2023 14:45:41 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 880640 bytes) in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/spatie/ignition/src/ErrorPage/ErrorPageViewModel.php on line 104
+[12-Sep-2023 14:45:57 Asia/Riyadh] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 200
+[12-Sep-2023 14:45:57 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 880640 bytes) in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/spatie/ignition/src/ErrorPage/ErrorPageViewModel.php on line 104
+[12-Sep-2023 14:46:15 Asia/Riyadh] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/taheiyacom/public_html/art.taheiya.com.sa/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 416
+[12-Sep-2023 15:11:50 Asia/Riyadh] PHP Fatal error:  Cannot use App\Models\Claim as Claim because the name is already in use in /home/taheiyacom/public_html/art.taheiya.com.sa/app/Http/Controllers/AdminController.php on line 17
+[17-Sep-2023 10:12:24 UTC] PHP Warning:  PHP Request Startup: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[17-Sep-2023 10:12:24 UTC] PHP Warning:  PHP Request Startup: Multipart body parts limit exceeded 1020. To increase the limit change max_multipart_body_parts in php.ini. in Unknown on line 0
+[20-Sep-2023 07:32:21 UTC] PHP Warning:  POST Content-Length of 13449649 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2023 07:35:06 UTC] PHP Warning:  POST Content-Length of 13449659 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2023 08:39:20 UTC] PHP Warning:  POST Content-Length of 17668796 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
